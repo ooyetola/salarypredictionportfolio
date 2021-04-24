@@ -1,2 +1,2 @@
 # salarypredictionportfolio
-Salary Prediction Projecy
+Salary Prediction Project
