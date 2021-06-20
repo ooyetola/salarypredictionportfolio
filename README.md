@@ -26,8 +26,7 @@ salary - job salary
 ## Outlier Detection
 Salaries above 220.5 and below 8.5 were suspected to be outliers.
 
-![Box Plot](https://imgbox.com/aiz9HeC3)
-<img src="https://imgbox.com/aiz9HeC3" alt="Box Plot">
+<a href="https://imgbox.com/OtPWhYRg" target="_blank"><img src="https://thumbs2.imgbox.com/34/aa/OtPWhYRg_t.png" alt="Box Plot"/></a>
 
 After analysis, it was observed that salaries above 220.5 where majorly from the Oil and Finance industries with several years of experience.
 Records with salary below 8.5 were deleted as it wasn't logical to have such salaries except the jobs were volunteer jobs.
